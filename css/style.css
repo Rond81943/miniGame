@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#btn {
+    background-color: rgb(102, 102, 241);
+    color: aliceblue;
+    border-radius: 5px;
+}
